@@ -1,0 +1,12 @@
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\bin\Debug\net5.0\NWA.Core.deps.json
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\bin\Debug\net5.0\NWA.Core.dll
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\bin\Debug\net5.0\NWA.Core.pdb
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\NWA.Core.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\NWA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\NWA.Core.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\NWA.Core.AssemblyInfo.cs
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\NWA.Core.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\NWA.Core.dll
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\refint\NWA.Core.dll
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\NWA.Core.pdb
+C:\Users\marce\source\repos\NucleosAPI\NWA.Core\obj\Debug\net5.0\ref\NWA.Core.dll
