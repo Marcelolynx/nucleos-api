@@ -8,11 +8,35 @@
 
     <ItemGroup>
       <Compile Remove="Class1.cs" />
+      <Compile Remove="Notifications\Interfaces.cs" />
+      <Compile Remove="ValueObjects\DoubleValidator.cs" />
+      <Compile Remove="Entities\NucleoContext\**" />
+      <Compile Remove="Entities\FazendaLageadoContext\DomainOwner.cs" />
+      <Compile Remove="Validations\SocialNameValidations.cs" />
+      <Compile Remove="Validations\Interfaces\IValidations.cs" />
+      <Compile Remove="Notifications\**" />
+      <Compile Remove="Validators\Interfaces\IValidations.cs" />
+      <Compile Remove="Validators\SocialNameValidations.cs" />
+      <Compile Remove="Validators\Interfaces\**" />
+      <Compile Remove="Entities\FazendaLageadoContext\**" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Notifications" />
-      <Folder Include="Validations" />
+      <EmbeddedResource Remove="Entities\NucleoContext\**" />
+      <EmbeddedResource Remove="Notifications\**" />
+      <EmbeddedResource Remove="Validators\Interfaces\**" />
+      <EmbeddedResource Remove="Entities\FazendaLageadoContext\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Entities\NucleoContext\**" />
+      <None Remove="Notifications\**" />
+      <None Remove="Validators\Interfaces\**" />
+      <None Remove="Entities\FazendaLageadoContext\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="11.3.0" />
     </ItemGroup>
 
 </Project>

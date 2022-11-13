@@ -3,7 +3,7 @@ using Nucleos.Domain.ValueObjects;
 
 namespace Nucleos.Domain.Entities;
 
-    public class Cliente : BaseEntity
+    public class Cliente : Entity
     {
         public Cliente(string nome, string email, string telefone, Document document, string observacao, bool ativo)
         {

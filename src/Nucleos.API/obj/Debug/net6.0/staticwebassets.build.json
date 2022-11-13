@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZmpIj3zV8yLnX50eySyMc6D+McEO3GWHQCp6OyBZ+jw=",
+  "Source": "Nucleos.API",
+  "BasePath": "_content/Nucleos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

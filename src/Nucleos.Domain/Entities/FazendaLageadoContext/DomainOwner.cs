@@ -1,22 +1,30 @@
-namespace Nucleos.Domain.Entities.FazendaLageadoContext;
+using Nucleos.Domain.Validations;
+using Nucleos.Domain.ValueObjects;
 
-public class DomainOwner : BaseEntity
+namespace Nucleos.Domain.Entities.FazendaLageadoContext;
+public class DomainOwner : Entity
 {
-    public DomainOwner(string tradingName, string socialName, string email, string documentNumber, int documentType)
-    : base(tradingName, socialName)
+    public DomainOwner(SocialName socialName, string email, Document document)
+    : base(socialName)
     {
         Email = email;
-        DocumentNumber = documentNumber;
-        DocumentType = documentType;
+        Document = document;
     }
     public string Email { get; private set; }
-
-    public string DocumentNumber { get; private set; }
-
-    public int DocumentType { get; private set; }
-    
+    public Document Document { get; private set; }
     public void SetEmail(string email)
     {
         Email = email;
+    }
+
+
+    public override bool Validation()
+    {
+        if (string.IsNullOrEmpty(this.SocialName.CompanyName))
+            return false;
+        if (string.IsNullOrEmpty(this.SocialName.TradingName))
+            return false;
+        
+        return true;
     }
 }
