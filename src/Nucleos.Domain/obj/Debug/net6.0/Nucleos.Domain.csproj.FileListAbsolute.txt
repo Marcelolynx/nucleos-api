@@ -1,0 +1,12 @@
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/bin/Debug/net6.0/Nucleos.Domain.deps.json
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/bin/Debug/net6.0/Nucleos.Domain.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/bin/Debug/net6.0/Nucleos.Domain.pdb
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/Nucleos.Domain.csproj.AssemblyReference.cache
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/Nucleos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/Nucleos.Domain.AssemblyInfoInputs.cache
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/Nucleos.Domain.AssemblyInfo.cs
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/Nucleos.Domain.csproj.CoreCompileInputs.cache
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/Nucleos.Domain.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/refint/Nucleos.Domain.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/Nucleos.Domain.pdb
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Domain/obj/Debug/net6.0/ref/Nucleos.Domain.dll

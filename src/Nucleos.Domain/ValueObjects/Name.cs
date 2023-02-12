@@ -1,6 +1,6 @@
 namespace Nucleos.Domain.ValueObjects;
 
-public struct Name
+public class Name
 {
     public Name(string firstName, string lastName)
     {

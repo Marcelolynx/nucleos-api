@@ -1,12 +1,12 @@
 namespace Nucleos.Domain.ValueObjects;
 
-public struct SocialName
+public class SocialName
 {
     public SocialName(string tradingName, string companyName)
     {
         TradingName = tradingName;
         CompanyName = companyName;
     }
-    public string TradingName { get; private set; }
-    public string CompanyName { get; private set; }
+    public string TradingName { get;  set; }
+    public string CompanyName { get;  set; }
 }

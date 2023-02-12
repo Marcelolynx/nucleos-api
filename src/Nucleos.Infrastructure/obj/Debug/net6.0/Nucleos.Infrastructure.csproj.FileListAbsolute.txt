@@ -1,0 +1,17 @@
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/bin/Debug/net6.0/Nucleos.Infrastructure.deps.json
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/bin/Debug/net6.0/Nucleos.Infrastructure.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/bin/Debug/net6.0/Nucleos.Infrastructure.pdb
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.csproj.AssemblyReference.cache
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.AssemblyInfoInputs.cache
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.AssemblyInfo.cs
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/refint/Nucleos.Infrastructure.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.pdb
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/ref/Nucleos.Infrastructure.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/bin/Debug/net6.0/Nucleos.Domain.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/bin/Debug/net6.0/Nucleos.Domain.pdb
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.csproj.CopyComplete
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/bin/Debug/net6.0/Nucleos.Infrastructure.runtimeconfig.json
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.Infrastructure/obj/Debug/net6.0/Nucleos.Infrastructure.genruntimeconfig.cache

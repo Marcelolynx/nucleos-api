@@ -25,3 +25,8 @@
 /Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/Nucleos.API.pdb
 /Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/Nucleos.API.genruntimeconfig.cache
 /Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/ref/Nucleos.API.dll
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/staticwebassets/msbuild.Nucleos.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/staticwebassets/msbuild.build.Nucleos.API.props
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Nucleos.API.props
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Nucleos.API.props
+/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/obj/Debug/net6.0/staticwebassets.pack.json

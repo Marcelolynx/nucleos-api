@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8zDIbBBQI/9sO03Y0HqGT/BQGZojrODoHj5eM8qg3lCHdFUptPU7S40/M9zJuzaZHZQ9xrvymSvj8fnxcrkNsw==",
+  "dgSpecHash": "bKybg2EgtWwvYGuyNDxFEln/oIgwKT2TGDUQCgjU1zeGpVkHNCyzJ5IC2IzIs7tk1jfdhrLOgkTUgPZyN76nYw==",
   "success": true,
   "projectFilePath": "/Users/marcelolynx/RiderProjects/nucleos-api/src/Nucleos.API/Nucleos.API.csproj",
   "expectedPackageFiles": [

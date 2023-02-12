@@ -14,12 +14,8 @@ public class Machine : Entity
     public TypeFuel TypeFuel { get; set; } 
     
     public int Kilometer { get; set; }
-
-    public Machine(Name name, SocialName socialName) : base(name, socialName)
-    {
-    }
-
-    public override bool Validation()
+    
+    public override bool Validate()
     {
         throw new NotImplementedException();
     }
