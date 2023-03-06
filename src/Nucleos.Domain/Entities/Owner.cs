@@ -1,5 +1,6 @@
 using Nucleos.Domain.Enums;
 using Nucleos.Domain.ValueObjects;
+using Nucleos.Entities;
 
 namespace Nucleos.Domain.Entities;
 

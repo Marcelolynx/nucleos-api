@@ -8,6 +8,13 @@
 
     <ItemGroup>
       <Compile Remove="Class1.cs" />
+      <Compile Remove="Migrations\20230212021135_InitialMigration.cs" />
+      <Compile Remove="Migrations\20230212021135_InitialMigration.Designer.cs" />
+      <Compile Remove="Migrations\20230212155544_TableAddress.cs" />
+      <Compile Remove="Migrations\20230212155544_TableAddress.Designer.cs" />
+      <Compile Remove="Migrations\20230212160314_UpdateEntities.cs" />
+      <Compile Remove="Migrations\20230212160314_UpdateEntities.Designer.cs" />
+      <Compile Remove="Migrations\ManagerContextModelSnapshot.cs" />
     </ItemGroup>
 
     <ItemGroup>

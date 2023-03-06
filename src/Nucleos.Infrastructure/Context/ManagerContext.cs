@@ -6,15 +6,18 @@ namespace Nucleos.Infrastructure.Context;
 
 public class ManagerContext : DbContext
 {
+    public ManagerContext()
+    {
+        
+    }
     public ManagerContext(DbContextOptions<ManagerContext> options) : base(options)
     {
     }
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql(
-            "Provider=PostgreSQL OLE DB Provider;Data Source=docker-ps;location=nucleos_db;User ID=postgres;password=mco02jgp");
-    }
+        optionsBuilder.UseSqlServer(@"Data Source=localhost;Database=nucleos_db;User Id=sa;Password=Mco02Jgp!;TrustServerCertificate=True;Encrypt=false");
+    } 
     public DbSet<Employe> Employes { get; set; }
     
     protected override void OnModelCreating(ModelBuilder builder)
