@@ -4,6 +4,7 @@ namespace Nucleos.Domain.Entities;
 
 public class Supplier : Profile
 {
+    public string Cnpj { get; private set; }
     
     public override bool Validate()
     {

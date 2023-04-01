@@ -3,10 +3,8 @@ using Nucleos.Entities;
 
 namespace Nucleos.Domain.Entities;
 
-public class Client : Entity
+public class Client : Profile
 {
-    public Address Address { get; private set; }
-
     protected Client(){}
 
     public override bool Validate()

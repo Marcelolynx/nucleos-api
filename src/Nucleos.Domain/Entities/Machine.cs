@@ -9,9 +9,7 @@ public class Machine : Entity
     
     public string model { get; set; }
     
-    public DateTime YearModel { get; set; }
-    
-    public TypeFuel TypeFuel { get; set; } 
+    public DateTime YearModel { get; set; } 
     
     public int Kilometer { get; set; }
     

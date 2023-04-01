@@ -19,6 +19,7 @@
       <Compile Remove="Validators\SocialNameValidations.cs" />
       <Compile Remove="Validators\Interfaces\**" />
       <Compile Remove="Entities\FazendaLageadoContext\**" />
+      <Compile Remove="Entities\Owner.cs" />
     </ItemGroup>
 
     <ItemGroup>

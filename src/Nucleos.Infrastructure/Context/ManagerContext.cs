@@ -19,9 +19,11 @@ public class ManagerContext : DbContext
         optionsBuilder.UseSqlServer(@"Data Source=localhost;Database=nucleos_db;User Id=sa;Password=Mco02Jgp!;TrustServerCertificate=True;Encrypt=false");
     } 
     public DbSet<Employe> Employes { get; set; }
+    public DbSet<Client> Clients { get; set; }
     
     protected override void OnModelCreating(ModelBuilder builder)
     {
         builder.ApplyConfiguration(new EmployeMap());
+        builder.ApplyConfiguration(new ClientMap());
     }
 }

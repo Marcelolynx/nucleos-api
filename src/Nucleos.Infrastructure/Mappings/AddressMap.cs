@@ -53,6 +53,16 @@ public class AddressMap : IEntityTypeConfiguration<Address>
                         .HasColumnType("VARCHAR(150)")
                         .HasMaxLength(150)
                         .IsRequired();
+
+        builder.Property(x => x.latitude)
+            .HasColumnName("latitude")
+            .HasColumnType("VARCHAR(150)")
+            .HasMaxLength(150);
+
+        builder.Property(x => x.longitude)
+            .HasColumnName("longitude")
+            .HasColumnType("VARCHAR(150)")
+            .HasMaxLength(150);
     }
     
 }
